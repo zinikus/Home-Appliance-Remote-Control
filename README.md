@@ -34,4 +34,4 @@ Once everything is set up, you'll be able to switch your appliances on or off fr
 
 This project is open-source and free to use under the MIT License.
 
-**Author**: @zinikus
+**Author**: https://github.com/zinikus
